@@ -1,5 +1,5 @@
 ### Always working 🤔
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShikoSCS&count_private=true&show_icons=true&theme=chartreuse-dark&all_time_since_today)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShikoSCS&count_private=true&show_icons=true&theme=chartreuse-dark&amp;include_all_commit)
 <!--
 **ShikoSCS/ShikoSCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
