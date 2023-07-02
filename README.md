@@ -1,5 +1,7 @@
 ### Always working 🤔
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShikoSCS&theme=dark)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShikoSCS&theme=dark_lover&no-bg=true&rank=S,AAA,AA,A,B,C&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **ShikoSCS/ShikoSCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
