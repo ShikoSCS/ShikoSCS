@@ -11,3 +11,4 @@ Tools:
 - Notepad++: https://notepad-plus-plus.org/downloads/
 - VS Cde: https://code.visualstudio.com/download
 - .NET: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.21-windows-x64-installer?cid=getdotnetcore
+- Python: https://www.python.org/downloads/
